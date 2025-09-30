@@ -35,3 +35,6 @@ People-Counter adalah sistem deteksi dan penghitungan jumlah orang yang keluar d
 - Integrasi dengan website dashboard untuk menampilkan data kepadatan secara realtime.
 - Optimasi model deteksi agar lebih ringan dan cepat di perangkat edge.
 - Penambahan sistem notifikasi jika jumlah orang di dalam ruangan melewati kapasitas maksimum.
+
+Hasil
+![Gambaran Alat People Counting](https://github.com/Harisna/People-Counter/blob/main/Alat%20People%20Counter.jpg?raw=true)
